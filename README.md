@@ -8,4 +8,5 @@ Windows 10專業版| Windows 10工作站專業版| Windows 10教育版| Windows 
 
 請以滑鼠雙擊“windows.bat執行批次檔根據指示選擇要進行激活Windows作業系統版本。
 
-
+Windows Server 2019 ｜ Windows Server 2016 ｜Windows Server 2012 ｜Windows Server 2008 系列作業系統請根據
+"http://kwokpcaa.lionfree.net/kms.html" 指示進行Windows激活. 謝謝
