@@ -19,7 +19,7 @@ Windows Server 2019  ｜ Windows Server 2016 ｜Windows Server 2012 ｜Windows S
 
 將檔案另存新檔KMS_Windows.bat 檔案 & KMS_office.bat。
  
-請以滑鼠雙擊“.bat執行批次檔根據指示選擇要進行激活。
+請以滑鼠雙擊“.bat執行批次檔根據指示進行激活。
 
 手動進行Micrsoft Windows & Office 激活，請參考" http://kwokpcaa.lionfree.net/kms.html " 指示進行激活. 謝謝
 
