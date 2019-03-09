@@ -9,9 +9,9 @@ Windows 7專業版   | Windows 7企業版       |
 
 Windows Server 2019  ｜ Windows Server 2016 ｜Windows Server 2012 ｜Windows Server 2008 系列作業系統
 
-使用方式：第一次使用時請先請根據您的 Microsoft Windows 或 Microsoft Office 版本選擇下載.bat”激活脚本
+使用方式：第一次使用時請先請根據您的 Microsoft Windows 或 Microsoft Office 版本選擇"xxx.bat”激活脚本
 
-請用打開Windows 內置記事本
+請打開Windows 內置記事本
 
 把所有內容復制到記事本再修改一下其中內容(建議用記事本內取代功能)
 
