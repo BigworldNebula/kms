@@ -2,8 +2,11 @@
 本一鍵激活Windows（懶人包）適用以下作業系統：
 
 Windows 10專業版  | Windows 10工作站專業版 | Windows 10教育版 | Windows 10企業版 | Windows 10企業版LTSC（長期服務通道） |
+
 Windows 8.1專業版 | Windows 8.1企業版     | Windows 8專業版  | Windows 8企業版  | 
+
 Windows 7專業版   | Windows 7企業版       |
+
 Windows Server 2019  ｜ Windows Server 2016 ｜Windows Server 2012 ｜Windows Server 2008 系列作業系統
 
 使用方式：第一次使用時請先請根據您的 Microsoft Windows 或 Microsoft Office 版本選擇下載.bat”激活脚本
