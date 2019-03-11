@@ -31,7 +31,7 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
 
 把執行腳本檔案中的每一行“192.168.1.1”改為 kms.viewdns.net 或 kms.myftp.org 或 kms.myftp.biz
 
-將檔案另存新檔KMS_Windows.bat 檔案 & KMS_office.bat。
+將檔案另存新檔KMS_Windows.bat 檔案 
  
 請以滑鼠雙擊“.bat執行批次檔根據指示進行激活。
 
