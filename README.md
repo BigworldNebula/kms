@@ -21,22 +21,24 @@
 
 KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有用，其他的版本是不行的。
 
+
 ----------------------------------------------------------------------------------------------------------------------------
+
 操作步驟如下：
 
 第一次使用時請根據您的 Microsoft Windows 版本選擇client keys 
 
 請參考" https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys " 網頁內指示
 
-請打開Windows 內置記事本
-
-把所有內容復制到記事本
+請把所有Micrsoft Windows.bat內容復制到記事本
 
 再修改一下其中內容(建議用記事本內取代功能)
 
 把執行腳本檔案中的一行“cscript "%SystemRoot%\system32\slmgr.vbs" /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
                                            改為
-cscript "%SystemRoot%\system32\slmgr.vbs" /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX (請根據您的 Microsoft Windows 版本選擇client keys)
+cscript "%SystemRoot%\system32\slmgr.vbs" /ipk WxxxN-WxxxX-xxx9B-4Jxxx-T8xxx
+
+W269N-WFGWX 部份請根據您的 Microsoft Windows 版本選擇client keys-
 
 把執行腳本檔案中的一行 “192.168.1.1” 改為 “kms.viewdns.net” 或 “kms.myftp.org” 或 “kms.myftp.biz”
 
@@ -44,7 +46,11 @@ cscript "%SystemRoot%\system32\slmgr.vbs" /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX (�
  
 請以滑鼠雙擊“.bat執行批次檔根據指示進行激活。
 
---------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
 MicrosoftR Office 使用方式
 
 請根據電腦已安裝的Micrsoft Office 版本 選擇相關的" Office 20xx.bat " 檔案
