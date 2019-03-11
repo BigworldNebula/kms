@@ -1,13 +1,7 @@
 --------------------------------------------------------------------------------------------------------------------------
 本一鍵激活Windows（懶人包）適用以下作業系統：
 
-Windows 10專業版  | Windows 10工作站專業版 | Windows 10教育版 | Windows 10企業版 | Windows 10企業版LTSC（長期服務通道） |
-
-Windows 8.1專業版 | Windows 8.1企業版     | Windows 8專業版  | Windows 8企業版  | 
-
-Windows 7專業版   | Windows 7企業版       |
-
-Windows Server 2019  ｜ Windows Server 2016 ｜Windows Server 2012 ｜Windows Server 2008 系列作業系統
+Windows 10專業版，Windows 10工作站專業版 ，Windows 10教育版 ，Windows 10企業版 ，Windows 10企業版LTSC（長期服務通道），Windows 8.1專業版 Windows 8專業版 ，Windows 8.1企業版，Windows 8企業版，Windows 7專業版 ， Windows 7企業版，Windows 8.1企業版，Windows Server 系列作業系統
 
 使用方式：第一次使用時請先請根據您的 Microsoft Windows 或 Microsoft Office 版本選擇"xxx.bat”激活脚本
 
@@ -15,7 +9,7 @@ Windows Server 2019  ｜ Windows Server 2016 ｜Windows Server 2012 ｜Windows S
 
 把所有內容復制到記事本再修改一下其中內容(建議用記事本內取代功能)
 
-把執行腳本檔案中的每一行“192.168.1.1”改為kms.myftp.org 
+把執行腳本檔案中的每一行“192.168.1.1”改為kms.xxxx.com 
 
 將檔案另存新檔KMS_Windows.bat 檔案 & KMS_office.bat。
  
@@ -32,7 +26,7 @@ MicrosoftR Office 使用方式
 
 把所有內容復制到記事本再修改一下其中內容(建議用記事本內取代功能)
 
-把執行腳本檔案中的每一行“192.168.1.1”改為kms.myftp.org 
+把執行腳本檔案中的每一行“192.168.1.1”改為kms.xxxx.com 
 
 請以滑鼠雙擊“Office 20xx.bat”檔案執行激
 -------------------------------------------------------------------------------------------------------------------------
