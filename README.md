@@ -67,7 +67,7 @@ MicrosoftR Office 使用方式
 
 將檔案另存新檔 Office 20xx.bat。
 
-請以滑鼠雙擊“Office 20xx.bat”檔案執行激
+請以滑鼠雙擊“Office 20xx.bat”檔案執行激活
 
 -------------------------------------------------------------------------------------------------------------------------
 手動進行Micrsoft Windows & Office 激活，請參考" http://kwokpcaa.lionfree.net/kms.html " 指示進行激活. 謝謝
