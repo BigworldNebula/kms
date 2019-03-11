@@ -24,7 +24,9 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
 ----------------------------------------------------------------------------------------------------------------------------
 操作步驟如下：
 
-第一次使用時請先請根據您的 Microsoft Windows 版本選擇"Winxxx.bat”激活脚本
+第一次使用時請根據您的 Microsoft Windows 版本選擇client keys 
+
+請參考" https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys " 網頁內指示
 
 請打開Windows 內置記事本
 
@@ -32,7 +34,11 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
 
 再修改一下其中內容(建議用記事本內取代功能)
 
-把執行腳本檔案中的每一行“192.168.1.1”改為 kms.viewdns.net 或 kms.myftp.org 或 kms.myftp.biz
+把執行腳本檔案中的一行“cscript "%SystemRoot%\system32\slmgr.vbs" /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+                                           改為
+cscript "%SystemRoot%\system32\slmgr.vbs" /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX (請根據您的 Microsoft Windows 版本選擇client keys)
+
+把執行腳本檔案中的一行 “192.168.1.1” 改為 “kms.viewdns.net” 或 “kms.myftp.org” 或 “kms.myftp.biz”
 
 將檔案另存新檔KMS_Windows.bat 檔案 
  
@@ -56,6 +62,6 @@ MicrosoftR Office 使用方式
 -------------------------------------------------------------------------------------------------------------------------
 手動進行Micrsoft Windows & Office 激活，請參考" http://kwokpcaa.lionfree.net/kms.html " 指示進行激活. 謝謝
 
-Microsoft KMS client setup keys :https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys
+Microsoft KMS client setup keys :h
 
 -------------------------------------------------------------------------------------------------------------------------
