@@ -36,8 +36,6 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
  
 請以滑鼠雙擊“.bat執行批次檔根據指示進行激活。
 
-手動進行Micrsoft Windows & Office 激活，請參考" http://kwokpcaa.lionfree.net/kms.html " 指示進行激活. 謝謝
-
 --------------------------------------------------------------------------------------------------------------------------
 MicrosoftR Office 使用方式
 
@@ -54,9 +52,8 @@ MicrosoftR Office 使用方式
 請以滑鼠雙擊“Office 20xx.bat”檔案執行激
 
 -------------------------------------------------------------------------------------------------------------------------
-Microsoft KMS client setup keys :
+手動進行Micrsoft Windows & Office 激活，請參考" http://kwokpcaa.lionfree.net/kms.html " 指示進行激活. 謝謝
 
-https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys
-
+Microsoft KMS client setup keys :https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys
 
 -------------------------------------------------------------------------------------------------------------------------
