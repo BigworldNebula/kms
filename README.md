@@ -40,6 +40,7 @@ MicrosoftR Office 使用方式
 
 請以滑鼠雙擊“Office 20xx.bat”檔案執行激
 -------------------------------------------------------------------------------------------------------------------------
+
 Microsoft KMS client setup keys :
 
 https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys
