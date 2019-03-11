@@ -43,6 +43,7 @@ cscript "%SystemRoot%\system32\slmgr.vbs" /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
 cscript "%SystemRoot%\system32\slmgr.vbs" /ipk W2XXN-WXXXX-XXX9B-4JXXX-T8XXX
                                          
 
+
 把執行腳本檔案中的一行 “192.168.1.1” 
      
                        改為 
