@@ -22,9 +22,8 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
 
 
 操作步驟如下：
-在 windows 下以管理員身份打開「命令提示字元」，然後輸入以下命令：(滑鼠點取 命令提示字元，按右鍵，選擇 以系統管理員身分執行)
 
-使用方式：第一次使用時請先請根據您的 Microsoft Windows 或 Microsoft Office 版本選擇"xxx.bat”激活脚本
+第一次使用時請先請根據您的 Microsoft Windows 或 Microsoft Office 版本選擇"xxx.bat”激活脚本
 
 請打開Windows 內置記事本
 
