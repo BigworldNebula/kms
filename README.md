@@ -29,7 +29,7 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
 
 把所有內容復制到記事本再修改一下其中內容(建議用記事本內取代功能)
 
-把執行腳本檔案中的每一行“192.168.1.1”改為kms.xxxx.com 
+把執行腳本檔案中的每一行“192.168.1.1”改為 kms.viewdns.net 或 kms.myftp.org 或 kms.myftp.biz
 
 將檔案另存新檔KMS_Windows.bat 檔案 & KMS_office.bat。
  
@@ -46,7 +46,7 @@ MicrosoftR Office 使用方式
 
 把所有內容復制到記事本再修改一下其中內容(建議用記事本內取代功能)
 
-把執行腳本檔案中的每一行“192.168.1.1”改為kms.xxxx.com 
+把執行腳本檔案中的每一行“192.168.1.1”改為kms.viewdns.net 或 kms.myftp.org 或 kms.myftp.biz
 
 請以滑鼠雙擊“Office 20xx.bat”檔案執行激
 
