@@ -41,6 +41,7 @@ MicrosoftR Office 使用方式
 請以滑鼠雙擊“Office 20xx.bat”檔案執行激
 -------------------------------------------------------------------------------------------------------------------------
 
+-------------------------------------------------------------------------------------------------------------------------
 Microsoft KMS client setup keys :
 
 https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys
@@ -50,7 +51,7 @@ KMS Server 伺服器位置:
 
 kms.cangshui.net    
 
-www.ddddg.cn        
+www.ddddg.cn      
 
 kms.03k.org        
 
@@ -122,7 +123,7 @@ kms.digiboy.ir
 
 kms.lotro.cc 
 
-www.zgbs.cc 
+www.zgbs.cc
 
 cy2617.jios.org 
 
@@ -134,8 +135,6 @@ kms.digiboy.ir
 
 kms.lotro.cc  
 
-www.zgbs.cc 
-
 222.184.9.98
 
 kms.liyuans.com
@@ -143,7 +142,6 @@ kms.liyuans.com
 kms.cangshui.me
 
 kms.lolico.moe
-
 
 3rss.vicp.net:20439
 
@@ -169,8 +167,6 @@ kms.digiboy.ir
 
 kms.lotro.cc 
 
-www.zgbs.cc 
-
 cy2617.jios.org 
 
 kms.dwhd.org  
@@ -181,8 +177,6 @@ kms.digiboy.ir
 
 kms.lotro.cc  
 
-www.zgbs.cc 
-
 222.184.9.98
 
 kms.liyuans.com
@@ -190,5 +184,3 @@ kms.liyuans.com
 kms.cangshui.me
 
 kms.lolico.moe
-
-
