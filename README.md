@@ -63,7 +63,7 @@ MicrosoftR Office 使用方式
 
 再修改一下其中內容(建議用記事本內取代功能)
 
-把執行腳本檔案中的一行“192.168.1.1”改為kms.viewdns.net 或 kms.myftp.org 或 kms.myftp.biz
+把執行腳本檔案中的一行“192.168.1.1”改為“kms.viewdns.net” 或 “kms.myftp.org” 或 “kms.myftp.biz”
 
 將檔案另存新檔 Office 20xx.bat。
 
