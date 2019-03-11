@@ -24,11 +24,13 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
 ----------------------------------------------------------------------------------------------------------------------------
 操作步驟如下：
 
-第一次使用時請先請根據您的 Microsoft Windows 或 Microsoft Office 版本選擇"xxx.bat”激活脚本
+第一次使用時請先請根據您的 Microsoft Windows 版本選擇"Winxxx.bat”激活脚本
 
 請打開Windows 內置記事本
 
-把所有內容復制到記事本再修改一下其中內容(建議用記事本內取代功能)
+把所有內容復制到記事本
+
+再修改一下其中內容(建議用記事本內取代功能)
 
 把執行腳本檔案中的每一行“192.168.1.1”改為 kms.viewdns.net 或 kms.myftp.org 或 kms.myftp.biz
 
