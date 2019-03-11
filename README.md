@@ -44,12 +44,8 @@ cscript "%SystemRoot%\system32\slmgr.vbs" /ipk W2XXN-WXXXX-XXX9B-4JXXX-T8XXX
                                          
 
 
-把執行腳本檔案中的一行 “192.168.1.1” 
+把執行腳本檔案中的一行 “192.168.1.1” 改為 “kms.viewdns.net” 或 “kms.myftp.org” 或 “kms.myftp.biz”
      
-                       改為 
-                       
-“kms.viewdns.net” 或 “kms.myftp.org” 或 “kms.myftp.biz”
-
 將檔案另存新檔KMS_Windows.bat 檔案 
  
 請以滑鼠雙擊“.bat執行批次檔根據指示進行激活。
