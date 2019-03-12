@@ -40,9 +40,7 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
  cscript "%SystemRoot%\system32\slmgr.vbs" /ipk W2XXN-WXXXX-XXX9B-4JXXX-T8XXX
                                          
 
-2. 把執行腳本檔案中的一行
-
-“192.168.1.1” 改為KMS Server “kms.xxxx.net” 或 “224.XXXX.XXXX.XXXX
+2. 把執行腳本檔案中的一行“192.168.1.1” 改為KMS Server “kms.xxxx.net” 或 “224.XXXX.XXXX.XXXX
      
 將檔案另存新檔KMS_Windows.bat 檔案 
  
