@@ -44,7 +44,7 @@ cscript "%SystemRoot%\system32\slmgr.vbs" /ipk W2XXN-WXXXX-XXX9B-4JXXX-T8XXX
                                          
 
 
-把執行腳本檔案中的一行 “192.168.1.1” 改為 “kms.viewdns.net” 或 “kms.myftp.org” 或 “kms.myftp.biz”
+把執行腳本檔案中的一行 “192.168.1.1” 改為KMS Server “kms.xxxx.net” 或 “224.XXXX.XXXX.XXXX
      
 將檔案另存新檔KMS_Windows.bat 檔案 
  
@@ -63,8 +63,8 @@ MicrosoftR Office 使用方式
 
 再修改一下其中內容(建議用記事本內取代功能)
 
-把執行腳本檔案中的一行“192.168.1.1”改為“kms.viewdns.net” 或 “kms.myftp.org” 或 “kms.myftp.biz”
-
+把執行腳本檔案中的一行“192.168.1.1”改為KMS Server “kms.xxxx.net” 或 “224.XXXX.XXXX.XXXX 
+xxx
 將檔案另存新檔 Office 20xx.bat。
 
 請以滑鼠雙擊“Office 20xx.bat”檔案執行激活
