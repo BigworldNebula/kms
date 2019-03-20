@@ -42,7 +42,7 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
                                         
                           cscript "%SystemRoot%\system32\slmgr.vbs" /ipk < Licensing Key >
                                          
-2. 把執行腳檔案另存新檔KMS_Windows.bat 檔案 
+2. 執行腳檔案另存新檔KMS_Windows.bat 檔案 
  
    請以滑鼠雙擊“.bat執行批次檔進行激活。
    
@@ -56,17 +56,18 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
 
 MicrosoftR Office 使用方式
 
-請根據電腦已安裝的Micrsoft Office 版本 選擇相關的" Office 20xx.bat " 檔案
+1. 請根據電腦已安裝的Micrsoft Office 版本 選擇相關的" Office 20xx.bat " 檔案
 
-請把所有Office 20xx.bat內容復制到記事本
+2. 請把所有Office 20xx.bat內容復制到記事本
 
-再修改一下其中內容(建議用記事本內取代功能)
+3. 再修改一下其中內容(建議用記事本內取代功能)
 
-把執行腳本檔案中的一行“192.168.1.1”改為 “kms.xxxx.net” 
-xxx
-將檔案另存新檔 Office 20xx.bat。
+   把執行腳本檔案中的一行“192.168.1.1”改為 “kms.xxxx.net” 
 
-請以滑鼠雙擊“Office 20xx.bat”檔案執行激活
+4. 執行腳本另存新檔KMS_office.bat 檔案
+
+5. 請以滑鼠雙擊“KMS_office.bat 檔案執行批次檔進行激活。
+
 
 -------------------------------------------------------------------------------------------------------------------------
 手動進行Micrsoft Windows & Office 激活，請參考"  	KMS REME.7z" 指示進行激活. 謝謝
