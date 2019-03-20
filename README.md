@@ -34,7 +34,7 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
 
 再修改一下其中內容(建議用記事本內取代功能)
 
--------------------------------------------------------------------------------------------------------------------
+
 
 1.把執行腳本檔案中的一行 cscript "%SystemRoot%\system32\slmgr.vbs" /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
  
