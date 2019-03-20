@@ -42,7 +42,7 @@ cscript "%SystemRoot%\system32\slmgr.vbs" /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
 
                                         改為
                                         
-cscript "%SystemRoot%\system32\slmgr.vbs" /ipk W2XXN-WXXXX-XXX9B-4JXXX-T8XXX
+cscript "%SystemRoot%\system32\slmgr.vbs" /ipk <--------Licensing Key--------->
                                          
 ---------------------------------------------------------------------------------------------------------------------
 2. 把執行腳本檔案中的一行
