@@ -42,12 +42,12 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
                                         
                           cscript "%SystemRoot%\system32\slmgr.vbs" /ipk < Licensing Key >
                                          
-2. 執行腳檔案另存新檔KMS_Windows.bat 檔案 
+2. 執行腳檔案另存新檔" KMS_Windows.bat "  
  
-   請以滑鼠雙擊“.bat執行批次檔進行激活。
+   請以滑鼠雙擊" KMS_Windows.bat "執行批次檔進行激活。
    
   
-3. kms.myftp.org 的KMS 認證伺服器，請參考KMS伺服器列表文件
+3. kms.myftp.org 的KMS 認證伺服器部份，請參考KMS伺服器列表文件
 
 
 ------------------------------------------------------------------------------------------------------------------------
