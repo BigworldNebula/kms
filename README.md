@@ -66,7 +66,7 @@ MicrosoftR Office 使用方式
 
 再修改一下其中內容(建議用記事本內取代功能)
 
-把執行腳本檔案中的一行“192.168.1.1”改為KMS Server “kms.xxxx.net” 或 “224.XXXX.XXXX.XXXX 
+把執行腳本檔案中的一行“192.168.1.1”改為 “kms.xxxx.net” 
 xxx
 將檔案另存新檔 Office 20xx.bat。
 
