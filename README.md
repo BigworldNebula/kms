@@ -47,7 +47,7 @@ cscript "%SystemRoot%\system32\slmgr.vbs" /ipk W2XXN-WXXXX-XXX9B-4JXXX-T8XXX
 ---------------------------------------------------------------------------------------------------------------------
 2. 把執行腳本檔案中的一行
 
-“192.168.1.1” 改為KMS Server “kms.xxxx.net” 或 “224.XXXX.XXXX.XXXX
+“192.168.1.1” 改為 “kms.xxxx.net”
      
 將檔案另存新檔KMS_Windows.bat 檔案 
  
