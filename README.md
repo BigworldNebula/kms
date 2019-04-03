@@ -78,4 +78,5 @@ MicrosoftR Office 使用方式
 
 HWIDGen 中文版 Windows 10 數位授權工具 ，這款Win10數字權利獲取工具，可以自動獲取Windows 10 數位授權，無需產品密鑰，以最簡單的方式永久啟動。
 
-
+ConvertZ 
+https://www.azofreeware.com/2006/03/convertz-802.html
