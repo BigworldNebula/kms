@@ -1,13 +1,13 @@
 @echo off
 
-rem Àò¨úºŞ²z­ûÅv­­
+rem ç²å–ç®¡ç†å“¡æ¬Šé™
 :: BatchGotAdmin  
 :-------------------------------------  
 rem  --> Check for permissions  
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
 rem --> If error flag set, we do not have admin.  
 if '%errorlevel%' NEQ '0' (  
-    echo Àò¨úºŞ²z­ûÅv­­¤¤,¦pªGUAC¼uµ¡,½Ğ¿ï¾Ü¤¹³\...
+    echo ç²å–ç®¡ç†å“¡æ¬Šé™ä¸­,å¦‚æœUACå½ˆçª—,è«‹é¸æ“‡å…è¨±...
     goto UACPrompt  
 ) else ( goto gotAdmin )   
 :UACPrompt  
@@ -21,24 +21,24 @@ if '%errorlevel%' NEQ '0' (
 CD /D "%~dp0"
 
 
-echo ¥»µ{¦¡±N°õ¦æ Microsoft Windows ªº±Ò°Ê»{ÃÒªº³]©w
+echo æœ¬ç¨‹å¼å°‡åŸ·è¡Œ Microsoft Windows çš„å•Ÿå‹•èªè­‰çš„è¨­å®š
 
-echo ³]©w Microsoft Windows  §Ç¸¹
+echo è¨­å®š Microsoft Windows  åºè™Ÿ
 
 cscript "%SystemRoot%\system32\slmgr.vbs" /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
 
-echo ³]©w KMS ª÷Æ_ºŞ²z¦øªA¾¹
+echo è¨­å®š KMS é‡‘é‘°ç®¡ç†ä¼ºæœå™¨
 
-cscript "%SystemRoot%\system32\slmgr.vbs" /skms kms.myftp.org:1688
+cscript "%SystemRoot%\system32\slmgr.vbs" /skms 192.168.1.1:1688
 
-echo ±Ò°Ê Microsoft Windows
+echo å•Ÿå‹• Microsoft Windows
 
 cscript "%SystemRoot%\system32\slmgr.vbs" /ato
 
-echo Åã¥ÜMicrosoft Windows ±ÂÅv¸ê°T
+echo é¡¯ç¤ºMicrosoft Windows æˆæ¬Šè³‡è¨Š
 
 cscript "%SystemRoot%\system32\slmgr.vbs" /dlv
 
-echo §¹¦¨¤j¶q±Ò¥Îµ{§Ç
+echo å®Œæˆå¤§é‡å•Ÿç”¨ç¨‹åº
 
 pause
