@@ -36,20 +36,20 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
 
 
 
-1.把執行腳本檔案中的一行 cscript "%SystemRoot%\system32\slmgr.vbs" /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+1. 把執行腳本檔案中的一行 cscript "%SystemRoot%\system32\slmgr.vbs" /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
  
                                                      改為
                                         
                           cscript "%SystemRoot%\system32\slmgr.vbs" /ipk < Licensing Key >
                                          
-2. 執行腳檔案另存新檔" KMS_Windows.bat "  
+
+2. 把執行腳本檔案中的第三十二行"slmgr.vbs" /skms kms.myftp.org:1688" 的KMS認證伺服器部份改為有效的KMS伺服器ip
+
+
+3. 執行腳檔案另存新檔" KMS_Windows.bat "  
  
    請以滑鼠雙擊" KMS_Windows.bat "執行批次檔進行激活。
    
-  
-3. kms.myftp.org 的KMS 認證伺服器部份，請參考KMS伺服器列表文件
-
-
 ------------------------------------------------------------------------------------------------------------------------
 
 
