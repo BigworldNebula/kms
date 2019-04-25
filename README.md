@@ -40,10 +40,10 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
  
                                                      改為
                                         
-                          cscript "%SystemRoot%\system32\slmgr.vbs" /ipk < Licensing Key >
+                          cscript "%SystemRoot%\system32\slmgr.vbs" /ipk ABCDE-BADCE-EABDC-CADBE-CADBE
                                          
 
-2. 把執行腳本檔案中的第三十二行"slmgr.vbs" /skms kms.myftp.org:1688" 的KMS認證伺服器部份改為有效的KMS伺服器ip
+2. 把執行腳本檔案中的第三十二行"slmgr.vbs" /skms 192.168.1.1:1688" 的KMS認證伺服器部份改為有效的KMS伺服器ip
 
 
 3. 執行腳檔案另存新檔" KMS_Windows.bat "  
@@ -62,7 +62,7 @@ MicrosoftR Office 使用方式
 
 3. 再修改一下其中內容(建議用記事本內取代功能)
 
-   把執行腳本檔案中的一行“192.168.1.1”改為 “kms.xxxx.net” 
+   把執行腳本檔案中的一行“192.168.1.1”改為 “有效的KMS伺服器ip” 
    
    KMS 認證伺服器，請參考KMS伺服器列表文件
 
