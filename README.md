@@ -71,8 +71,6 @@ MicrosoftR Office 使用方式
 
 請使用右鍵點擊「電腦」選擇【內容】，進入後就會進到下方的作業系統授權資訊，若是出現「已啟動」表示剛剛做的KMS有正確啟動成功
 
-如圖:https://in2.site/img/check-windows-10-activation/big/check-windows-10-activation-4.png
-
 
 2. 檢查office2016/19 是否啟動成功
 
