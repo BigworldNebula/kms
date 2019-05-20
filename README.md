@@ -71,6 +71,6 @@ MicrosoftR Office 使用方式
 如圖:https://in2.site/img/check-windows-10-activation/big/check-windows-10-activation-4.png
 
 
-2. 檢查office2010 是否啟動成功
-
-進行完前面的步驟，接下來就是要檢查電腦內的Office2019 到底有沒有成功啟動成功呢？請開啟一個Office程式並點擊【檔案】，進入後請點擊左方的【說明】，會在畫面右手邊的版權部分看見「產品已啟動」，這就表示先前的KMS驗證動作都成功囉！
+2. 檢查office2016/19 是否啟動成功
+接下來就是要檢查電腦內的Office2019 到底有沒有成功啟動成功呢？
+請開啟一個Office程式並點擊【檔案】，進入後請點擊左方的【帳戶】，會在畫面右手邊的版權部分看見「產品已啟動」，這就表示先前的KMS驗證動作都成功囉！
