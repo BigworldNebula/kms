@@ -85,3 +85,7 @@ Microsoft Windows   光碟映像 (ISO 檔案)下載
 ps.請確認已準備好：您的 Windows 產品金鑰才能下載。
 
 https://www.microsoft.com/zh-hk/software-download/
+
+Microsoft Windows 10 光碟映像(ISO 檔案)下載
+
+https://www.microsoft.com/zh-hk/software-download/windows10
