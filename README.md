@@ -15,8 +15,7 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
 ----------------------------------------------------------------------------------------------------------------------------
 操作步驟如下：
 
-第一次使用時請根據您的 Microsoft Windows 版本去 https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys 網頁
-內找相同版本client keys 
+第一次使用時請根據您的 Microsoft Windows 版本去GOOGEL找相同版本client keys 
 
 請把所有Micrsoft Windows.bat內容復制到記事本
 
