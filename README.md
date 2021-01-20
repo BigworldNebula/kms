@@ -28,7 +28,7 @@ KMS server 只能對 VL 版本 (Volume License) 的 Windows 系統和 Office 有
                           cscript "%SystemRoot%\system32\slmgr.vbs" /ipk ABCDE-BADCE-EABDC-CADBE-CADBE
                                          
 
-2. 把執行腳本中的"slmgr.vbs" /skms 192.168.x.xxx:1688" 改為有效的KMS伺服器IP:1688            
+2. 把執行腳本中的"slmgr.vbs" /skms 192.168.1.XXX:1688" 改為有效的KMS伺服器IP:1688            
                    
 3. 執行腳檔案另存新檔" KMS_Windows.bat "  
  
@@ -43,7 +43,7 @@ MicrosoftR Office 使用方式
 
 3. 再修改一下其中內容(建議用記事本內取代功能)
 
-   把執行腳本的一行“192.168.x.xxx ”改為有效的“KMS伺服器IP”
+   把執行腳本的一行“192.168.1.XXX ”改為有效的“KMS伺服器IP”
    
 4. 執行腳本另存新檔" KMS_office.bat " 
 
